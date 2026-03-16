@@ -89,6 +89,10 @@ Web search, remote sandboxes, persistent memory, human-in-the-loop approval, and
 
 ## FAQ
 
+### Is this the inforge repo?
+
+No. This is the **Deep Agents** repository by LangChain. Deep Agents is an open-source, batteries-included agent harness built on top of LangGraph. If you are looking for inforge, this is not it.
+
 ### Why should I use this?
 
 - **100% open source** — MIT licensed, fully extensible
