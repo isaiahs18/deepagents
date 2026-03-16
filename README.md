@@ -103,7 +103,7 @@ Web search, remote sandboxes, persistent memory, human-in-the-loop approval, and
 Use this repository in the way that best matches your workflow:
 
 - **Build an agent into your app** — Install `deepagents`, then start from the Quickstart and Customization sections to add tools, prompts, and your model provider.
-- **Ship a ready-to-use coding assistant** — Use the [CLI README](libs/cli/) to run Deep Agents in your terminal with web search, remote sandboxes, and persistent memory.
+- **Ship a ready-to-use coding assistant** — Use the [CLI README](libs/cli/README.md) to run Deep Agents in your terminal with web search, remote sandboxes, and persistent memory.
 - **Copy proven patterns** — Browse [examples/](examples/) for end-to-end project templates (research, SQL, content generation, sandboxed execution, and more).
 - **Go deeper when needed** — Use the [documentation](https://docs.langchain.com/oss/python/deepagents/overview) and [API reference](https://reference.langchain.com/python/deepagents/) for deployment, architecture, and advanced customization details.
 
