@@ -19,6 +19,7 @@
 | [text-to-sql-agent](text-to-sql-agent/) | Natural language to SQL agent with planning, skill-based workflows, and the Chinook demo database |
 | [ralph_mode](ralph_mode/) | Autonomous looping pattern that runs with fresh context each iteration, using the filesystem for persistence |
 | [downloading_agents](downloading_agents/) | Shows how agents are just folders—download a zip, unzip, and run |
+| [code-review-agent](code-review-agent/) | AI-powered code reviewer that checks for bugs, security issues, performance problems, and style violations to help you write more solid software |
 
 Each example has its own README with setup instructions.
 
