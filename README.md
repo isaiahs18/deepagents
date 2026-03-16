@@ -98,6 +98,10 @@ Web search, remote sandboxes, persistent memory, human-in-the-loop approval, and
 - **Get started in seconds** — `uv add deepagents` and you have a working agent
 - **Customize in minutes** — Add tools, swap models, tune prompts when you need to
 
+### What is the point of this repo?
+
+Deep Agents is a batteries-included agent harness built on [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview). It solves the wiring problem: instead of assembling prompts, tools, context management, and a runtime yourself, you get a working agent in two lines of code and customize only what you need. The core value is a general-purpose agent that can plan, read and write files, run shell commands, delegate to sub-agents, and manage its own context window — all open-source and provider-agnostic.
+
 ### How can I use this repo to help me in a project?
 
 Use this repository in the way that best matches your workflow:
